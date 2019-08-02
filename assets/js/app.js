@@ -28,7 +28,7 @@ document.querySelector('.btn-roll').addEventListener('click', function () {
 
     //display result
     diceImage.style.display = 'block';
-    diceImage.src = `dice-${dice}.png`;
+    diceImage.src = `assets/img/dice-${dice}.png`;
 
     //update round score only IF not a 1
     if (dice !== 1) {
