@@ -1,4 +1,4 @@
-# Pig Dice Game - Javascript
+# Dice Game - Javascript
 
 **Game Rules**
 
