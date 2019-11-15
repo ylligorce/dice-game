@@ -1,4 +1,4 @@
-# Dice Game - Javascript
+# Dice Game
 
 **Game Rules**
 
